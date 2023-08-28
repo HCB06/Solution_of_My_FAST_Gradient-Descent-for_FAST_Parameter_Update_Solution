@@ -18,7 +18,7 @@ STEP 2 >
 STEP 3 >
 
 -make a little manipulation of your 'y' values..
--type this command 'y=X'.
+-type this command 'y+=X-y'.
 -choose your alfa (similiar to learning rate alpha but not same) to perfectly fit this linear format of dataset.
 
 STEP 4 >
