@@ -1,7 +1,7 @@
 # Solution_of_My_FAST_Gradient-Descent-for_FAST_Parameter_Update_Solution
 Solution_of_My_FAST_Gradient Descent for_FAST_Parameter_Update_Solution
 
-[JUST FOR REGRESSION COEFFICIENT]
+IMPORTANT: [JUST FOR REGRESSION COEFFICIENT IF YOU WANT TO USE AT LEAST 2 HIPERPARAMETER THIS CASE NOT FOR YOU]
 
 
 if you dont know anything about ML, check my ML with statistic,calculus and data science tutorial videos here (Turkish) >>> https://www.youtube.com/watch?v=qvWGlnHatDo&list=PLNgNWpM7HbsDuDQhrucGQeXtlctwep6ZW&pp=gAQBiAQB
