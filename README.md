@@ -1,6 +1,8 @@
 # Solution_of_My_FAST_Gradient-Descent-for_FAST_Parameter_Update_Solution
 Solution_of_My_FAST_Gradient Descent for_FAST_Parameter_Update_Solution
 
+I'm saying to my creation this: "Conjecturality Regression".
+
 IMPORTANT: [JUST FOR REGRESSION COEFFICIENT IF YOU WANT TO USE AT LEAST 2 HIPERPARAMETER THIS CASE NOT FOR YOU]
 
 
